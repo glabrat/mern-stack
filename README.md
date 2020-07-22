@@ -1,6 +1,6 @@
 ## Description
 
-This is the backend of app Zoolander using Mongodb, Express and NodeJS with framework NestJS.
+This is an MERN stack app named zoolander. Create, Read and Delete animals.
 
 ## Requirement
 

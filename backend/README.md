@@ -20,7 +20,7 @@ $ npm install
 ## Running the app
 
 ```bash
-$ docker-compose up -d
+$ sudo docker-compose up -d
 $ npm start
 ```
 

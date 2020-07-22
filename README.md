@@ -15,7 +15,7 @@ Follow the instructions:
 
 ```bash
 $ npm install
-$ docker-compose up -d
+$ sudo docker-compose up -d
 $ npm start
 ```
 
